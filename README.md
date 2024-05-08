@@ -1,16 +1,16 @@
-### Hi there 👋
+## Individual Projects
 
-<!--
-**Vivek504/Vivek504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quiz Master ([Repository](https://github.com/Vivek504/QuizMaster))
+A quiz platform enabling professors to manage quizzes, including video analysis of students for cheating detection and transcription, along with the automated assessment of answers.
 
-Here are some ideas to get you started:
+### Kubernetes ([Repository](https://github.com/Vivek504/Kubernetes))
+Developed microservices in node.js using Terraform for GCP's GKE infrastructure setup, enabling data exchange between services with persistent volume storage and CI/CD pipeline integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Group Projects
+
+### HireX ([Repository](https://github.com/Vivek504/HireXRepository))
+A recruitment platform enabling recruiters to manage the recruitment process, interviewers to assess code and projects, and candidate progression through coding rounds and advancement to live interviews with an interviewer.
+
+### Growbiz ([Repository](https://github.com/Vivek504/GrowbizRepository))
+A business management platform enabling businesses to manage their services, while providing customers with an
+experience for booking appointments.
