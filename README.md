@@ -1,5 +1,8 @@
 ## Projects
 
+### 3D Point Cloud and GIS Data Visualizer ([Repository](https://github.com/Vivek504/3D-Data-Viewer-with-GIS-Integration))
+Developed a 3D Point Cloud and GIS Data Visualizer, enabling users to interact with 3D point clouds using Three.js for altitude-based coloring, range filtering, and interactive controls. Integrated Mapbox for GIS data visualization, allowing metadata display, time-series animation, and tag-based filtering.
+
 ### Quiz Master ([Repository](https://github.com/Vivek504/QuizMaster))
 A quiz platform enabling professors to manage quizzes, including video analysis of students for cheating detection and transcription, along with the automated assessment of answers.
 
